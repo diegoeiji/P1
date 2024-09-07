@@ -10,9 +10,7 @@ Um site web interativo que permite aos amantes de carros esportivos pesquisarem 
 
 ## Tecnologias utilizadas
 * **Frontend:** HTML, CSS, JavaScript
-* **Framework:** React (opcional, caso esteja utilizando)
-* **Backend:** Node.js, Express (opcional, caso tenha um backend)
-* **Banco de dados:** MongoDB (opcional, para armazenar dados dos usuários e dos carros)
+
 
 ## Como contribuir
 Quer ajudar a melhorar este projeto? Siga estes passos:
